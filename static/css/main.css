@@ -1,0 +1,30 @@
+
+.box{
+    width: 175px;
+    height: 200px;
+    background-color:#7583A9;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+}
+.row1 {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    display: inline-flex;
+}
+.col-w-3 {
+    width: 25%;
+}
+.content{
+    height:200px;
+    width:100%;
+    border:1px solid #747474;
+    overflow:auto;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
